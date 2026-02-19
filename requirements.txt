@@ -4,7 +4,7 @@ requests
 scipy
 matplotlib
 pandas
-streamlit
+streamlit>=1.31.0
 seaborn
 pybase64
 altair>=5
